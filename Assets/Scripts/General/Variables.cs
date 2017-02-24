@@ -32,6 +32,7 @@ public class Variables : MonoBehaviour {
 	public static bool AvJump = false;
     public static bool WhiteDraw;
     public static bool BlackDraw;
+    public static bool start = false;
 
 	public static int Player1 = 12;
 	public static int Player2 = 12;
